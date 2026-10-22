@@ -1,5 +1,5 @@
 <p align="center">
-  <!-- Tarjeta Banner Header / Hero -->
+  <!-- Header / Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=200&section=header&text=vmax3187&fontSize=70&fontColor=fff&animation=fadeIn" alt="vmax3187 Header Card" />
 </p>
 
@@ -13,7 +13,6 @@
 <summary><b>📌 Top projects</b></summary>
 <br/>
 
-<!-- Tarjetas visuales individuales para tus proyectos principales -->
 <p align="center">
   <a href="https://github.com/vmax3187/Hibernate-Pokemons">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vmax3187&repo=Hibernate-Pokemons&theme=tokyonight&hide_border=true" alt="Hibernate Pokemons Card" />
@@ -38,7 +37,6 @@
 <summary><b>🧰 Stack</b></summary>
 <br/>
 
-<!-- Tarjeta visual con la lista/porcentaje de tu stack de lenguajes de programación -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmax3187&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="vmax3187 Top Languages Card" />
 </p>
@@ -49,7 +47,6 @@
 <summary><b>📊 By the numbers</b></summary>
 <br/>
 
-<!-- Tarjetas visuales de estadísticas y racha -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vmax3187&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="vmax3187 stats card" />
 </p>
@@ -64,9 +61,10 @@
 <summary><b>🟩 Activity</b></summary>
 <br/>
 
-<!-- Tarjeta gráfica visual de tu actividad reciente -->
+<!-- Tarjeta de actividad ultra estable en snake/heatmap -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vmax3187&theme=tokyonight&hide_border=true&area=true" alt="vmax3187 activity card" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vmax3187&theme=tokyonight&hide_border=true" alt="vmax3187 Activity" onerror="this.style.display='none'" />
+  <img src="https://ghchart.rshah.org/00f2fe/vmax3187" alt="vmax3187 Github Contributions Chart" width="100%" />
 </p>
 
 </details>
