@@ -55,16 +55,6 @@
 </details>
 
 <details>
-<summary><b>🟩 Activity Graph</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vmax3187&theme=tokyonight&hide_border=true" alt="vmax3187 activity graph" />
-</p>
-
-</details>
-
-<details>
 <summary><b>👋 Say hello</b></summary>
 <br/>
 
