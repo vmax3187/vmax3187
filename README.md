@@ -64,4 +64,4 @@
 
 </details>
 
-<p align="center"><sub>✨ Diseñado y personalizado para vmax3187</sub></p>
+
