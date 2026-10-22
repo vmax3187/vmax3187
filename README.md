@@ -61,9 +61,7 @@
 <summary><b>🟩 Activity</b></summary>
 <br/>
 
-<!-- Tarjeta de actividad ultra estable en snake/heatmap -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vmax3187&theme=tokyonight&hide_border=true" alt="vmax3187 Activity" onerror="this.style.display='none'" />
   <img src="https://ghchart.rshah.org/00f2fe/vmax3187" alt="vmax3187 Github Contributions Chart" width="100%" />
 </p>
 
